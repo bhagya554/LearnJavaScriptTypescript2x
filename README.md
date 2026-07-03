@@ -34,6 +34,8 @@ A learning repository for Playwright automation testing with JavaScript. Builds 
 - **[Chapter 28: Enum](chapter_28_Enum/)** — Numeric and string enums, enum with functions and API contexts
 - **[Chapter 29: Generic](chapter_29_Generic/)** — Generic functions, classes, interfaces, and API response patterns
 - **[Chapter 30: Private / Public / Protected](chapter_30_Private_Public_Protected/)** — Access modifiers, readonly, abstract classes, POM pattern
+- **[Chapter 31: Type Override & Decorators](chapter_31_Type_Override_Decorators/)** — Type casting with `as`, method override, decorators
+- **[Chapter 32: Playwright Fundamentals](chapter_32_Playwright_Fundamentals/)** — Playwright project setup, cross-browser config, sample test
 - **[JS Test Questions](JSTestQuestions/)** — JavaScript practice problems with QA/testing flavour
 - **[Assignments](Assignments/)** — Practice problems
 - **[Task — 20 May 2026](Task_20_May_2026/)** — QA-flavoured `if`/`else` practice problems
