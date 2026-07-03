@@ -1,6 +1,6 @@
-# LearnPlaywright2x
+# LearnJavaScriptTypeScript
 
-A learning repository for Playwright automation testing with JavaScript. Builds up the JavaScript foundations needed before getting into Playwright.
+A learning repository for JavaScript and TypeScript fundamentals — from basic JS concepts through OOP to Playwright automation testing.
 
 ## Contents
 
