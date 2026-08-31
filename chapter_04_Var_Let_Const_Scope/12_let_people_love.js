@@ -26,5 +26,5 @@ console.log(executionTime)//// ReferenceError: executionTime is not defined
 // let = loyal
 // var = varirable / triator
 
-let name = "pending";
-name = "done";//reassign is allowed
+let status="pending"
+status="done";//can be reassigned

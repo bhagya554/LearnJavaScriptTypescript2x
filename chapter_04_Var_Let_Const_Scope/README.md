@@ -1,4 +1,4 @@
-# Chapter 4: JavaScript Concepts — Variables, Functions, Scope & Hoisting
+# Chapter 4: Var, Let, Const & Scope — Variables, Functions & Hoisting
 
 Deep dive into `var`, `let`, `const`, functions, scoping rules, and hoisting behavior.
 

@@ -5,11 +5,11 @@ console.log(a)//10
 
 function printHello() {
     console.log("Hello")
-    a = 20//local scope
+    var a = 20//local scope
     console.log("Inside function: ", a)
 
     if (true) {
-        a = 30
+        var a = 30 //redeclaration allowed in JS for var but shows duplicate local variable in Java
         console.log("Inside if block: ", a)//30
     }
 
@@ -17,6 +17,6 @@ function printHello() {
 
 }
 printHello()
-a = 50
+var a = 50
 console.log("global again: ", a)
 
