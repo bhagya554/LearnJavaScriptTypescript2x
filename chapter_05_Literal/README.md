@@ -11,6 +11,6 @@ Literal values in JavaScript — numbers, strings, template literals, `null` and
 | `24_null.js` | `null` in practice |
 | `25_literal_all.js` | All literal types at a glance |
 | `26_literal_number_all.js` | Number literals — decimal, binary, octal, hex, exponent |
-| `27_string_literal.js` | String literal basics |
+| `27_string_literal.js` | String literal basics, `typeof` on strings (no separate `char` type) |
 | `28_Template_Literal.js` | Template literals and string interpolation |
 | `29_BackTick_SingleQuote_DoubleQuote.js` | Comparing backtick, single, and double quotes |

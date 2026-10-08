@@ -9,7 +9,7 @@ A learning repository for JavaScript and TypeScript fundamentals — from basic 
 - **[Chapter 3: Identifiers & Literals](chapter_03_Identifiers_Literals/)** — Identifier rules, naming conventions, comments, JavaScript keywords
 - **[Chapter 4: Var, Let, Const & Scope](chapter_04_Var_Let_Const_Scope/)** — `var`, `let`, `const`, functions, scoping, hoisting
 - **[Chapter 5: Literals](chapter_05_Literal/)** — Number, string, template literals, `null` vs `undefined`
-- **[Chapter 6: Operators & `==` vs `===`](chapter_06_double_triple_equalTo/)** — Assignment, arithmetic, comparison, logical, ternary, `typeof`, increment/decrement, nullish operators
+- **[Chapter 6: Operators & `==` vs `===`](chapter_06_Operators/)** — Assignment, arithmetic, comparison, logical, ternary, `typeof`, increment/decrement, nullish operators
 - **[Chapter 7: If / Else](chapter_07_If_else/)** — Conditional logic with `if`, `else if`, `else`
 - **[Chapter 8: Switch Statement](chapter_08_switch_statement/)** — `switch`, `break`, `default`, fall-through
 - **[Chapter 9: User Input](chapter_09_UserInput/)** — Reading user input via `readline` and `prompt-sync`
